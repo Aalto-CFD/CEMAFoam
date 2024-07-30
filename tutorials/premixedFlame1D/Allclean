@@ -1,7 +1,0 @@
-#!/bin/sh
-
-foamCleanPolyMesh
-
-rm -rf mechanism/build
-rm -rf mechanism/out
-

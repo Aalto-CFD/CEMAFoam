@@ -1,32 +1,21 @@
-# Prerequisites
-*.d
+# vscode files - anywhere
+.vscode
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Build directories - anywhere
+linux*Gcc*
 
-# Precompiled Headers
-*.gch
-*.pch
+# lnInclude (symlink) directories - anywhere
+lnInclude
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
+# Objects and archives - anywhere
+*.[oa]
 *.la
-*.a
-*.lib
+*.so
 
-# Executables
-*.exe
-*.out
-*.app
+# Timestep directories - anywhere
+0.*
+[1-9]*
+
+# logfiles - anywhere
+log.*
+*log
