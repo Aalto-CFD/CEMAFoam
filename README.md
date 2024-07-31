@@ -89,7 +89,7 @@ If you use our model, please consider citing the following work:
 <a id="cite"></a> 
 M. Gadalla: Implementation of Analytical Jacobian and Chemical Explosive Mode Analysis
 (CEMA) in OpenFOAM. In Proceedings of CFD with OpenSource Software, 2021, Edited by H. Nilsson. 
-doi:[10.17196/OS_CFD#YEAR_2021](http://dx.doi.org/10.17196/OS_CFD#YEAR_2021).
+ArXiv:[arXiv:2205.07416](https://arxiv.org/abs/2205.07416).
 <details>
 <summary>BibTex</summary>
 <p>
@@ -100,8 +100,31 @@ doi:[10.17196/OS_CFD#YEAR_2021](http://dx.doi.org/10.17196/OS_CFD#YEAR_2021).
   title = {{Implementation of Analytical Jacobian and Chemical Explosive Mode Analysis (CEMA) in OpenFOAM}},
   booktitle={Proceedings of CFD with OpenSource Software},
   editor={Nilsson, Håkan},
-  doi = {10.17196/OS_CFD#YEAR_2021},
+  doi = {arXiv:2205.07416},
   year={2021}
+}
+```
+</p>
+</details>
+
+
+<a id="cite2"></a>
+M. Gadalla, S. Karimkashi, I. Kabil, O. Kaario, T. Lu, V. Vuorinen. Embedded direct numerical simulation of ignition kernel evolution and flame initiation in dual-fuel spray assisted combustion. Combustion and Flame, 259, 113172.
+doi:[j.combustflame.2023.113172](https://doi.org/10.1016/j.combustflame.2023.113172). (2024)
+<details>
+<summary>BibTex</summary>
+<p>
+
+```
+@article{Gadalla2024,
+title = {Embedded direct numerical simulation of ignition kernel evolution and flame initiation in dual-fuel spray assisted combustion},
+journal = {Combustion and Flame},
+volume = {259},
+pages = {113172},
+year = {2024},
+issn = {0010-2180},
+doi = {https://doi.org/10.1016/j.combustflame.2023.113172},
+author = {Mahmoud Gadalla and Shervin Karimkashi and Islam Kabil and Ossi Kaario and Tianfeng Lu and Ville Vuorinen},
 }
 ```
 </p>
